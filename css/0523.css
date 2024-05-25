@@ -1,0 +1,8 @@
+        /*h3,li{color: brown;}태그 셀렉터*/
+       /* .warning{color: red;}  class 셀렉터=여러번 사용 가능 */
+        /* body.main{background-color: aliceblue;} */
+        /*#aaa{background-color:mistyrose ;}id 셀렉터=문서안에 한번만 사용 가능
+        div>strong{background-color:yellow" }
+        ul strong{color:dodgerblue;}*/
+        h3:first-letter{color:red} 가상클래스
+        li:hover{background-color: yellowgreen;}
